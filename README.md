@@ -1,2 +1,2 @@
-# priject
-Priject report
+# project
+Project report
